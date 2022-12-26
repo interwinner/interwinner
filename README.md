@@ -1,2 +1,2 @@
-Hi, I’m @yuriy-irinka
+Hi, I’m a software engineer.
 
